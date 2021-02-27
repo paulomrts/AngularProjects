@@ -1,2 +1,4 @@
 # AngularProjects
 - Simple projects developed using Angular. Just for studying purposes. 
+
+1st Project -  Web site for a Petshop. Builded using some concepts from the Balta.io course "Criando Apps Web com Angular"
